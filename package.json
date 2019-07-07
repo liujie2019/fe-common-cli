@@ -1,0 +1,23 @@
+{
+  "name": "fe-common-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "fe-common-cli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liujie2019/fe-common-cli.git"
+  },
+  "keywords": [],
+  "author": "liujie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liujie2019/fe-common-cli/issues"
+  },
+  "homepage": "https://github.com/liujie2019/fe-common-cli#readme"
+}
